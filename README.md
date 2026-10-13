@@ -138,7 +138,7 @@ A human-in-the-loop AI agent that runs my job search: it scouts roles across Ire
 
 <div align="center">
 
-<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Tushar%20Gaikwad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tushargaikwadba/"><img src="https://img.shields.io/badge/LinkedIn-Tushar%20Gaikwad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:tushargaikwad1107@gmail.com"><img src="https://img.shields.io/badge/Email-tushargaikwad1107%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/></a>
 
 </div>
